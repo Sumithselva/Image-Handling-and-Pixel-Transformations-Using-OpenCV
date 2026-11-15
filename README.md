@@ -186,15 +186,17 @@ image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 
 
 
-
 ## Flipped Horizontally
 
-![Uploading image.png…]()
 
+
+<img width="876" height="376" alt="image" src="https://github.com/user-attachments/assets/88a33a76-c544-4870-b0f4-cd7d42a896f3" />
 
 ## Flipped Vertically
 
-![Uploading image.png…]()
+<img width="856" height="355" alt="image" src="https://github.com/user-attachments/assets/2d66de9f-10c2-48ed-8167-7b263b292ecf" />
+
+
 
 
 
