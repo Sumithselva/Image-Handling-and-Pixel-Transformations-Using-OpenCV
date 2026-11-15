@@ -136,46 +136,66 @@ image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 ## Output:
 
 ## original image
-- <img width="650" height="373" alt="image" src="https://github.com/user-attachments/assets/00b600c7-e17f-4326-ae63-92540e131151" />
+<img width="562" height="353" alt="image" src="https://github.com/user-attachments/assets/ebdb834b-82f9-459c-9235-b8d510e2daad" />
 
 ## Image with Line
-<img width="605" height="366" alt="image" src="https://github.com/user-attachments/assets/d11ed377-a61b-4f9a-b029-d2eae60a829f" />
+<img width="770" height="385" alt="image" src="https://github.com/user-attachments/assets/07e64248-9b3d-450d-abd6-38f65b43b7d1" />
+
+
 
 ## Image with Circle
-<img width="772" height="363" alt="image" src="https://github.com/user-attachments/assets/5febc3a7-9412-4525-86dd-4fa6ad8feb35" />
+<img width="858" height="371" alt="image" src="https://github.com/user-attachments/assets/c2da871a-c71c-4d4b-b0f6-cc9f200a0360" />
+
 
 ## Image with Rectangle
-<img width="610" height="363" alt="image" src="https://github.com/user-attachments/assets/215f92a4-e492-49e3-aa93-08f0dbfa65d6" />
+<img width="987" height="367" alt="image" src="https://github.com/user-attachments/assets/c2ea663f-5218-4669-aa1f-22082b67149e" />
+
 
 ## Image with Text
-<img width="585" height="368" alt="image" src="https://github.com/user-attachments/assets/d11437ab-182c-4f67-9564-76b7ba91d569" />
+<img width="895" height="357" alt="image" src="https://github.com/user-attachments/assets/93caba16-9143-44f4-b945-19b460e14f8b" />
+
+
 
 ## Original RGB Image
-<img width="625" height="337" alt="image" src="https://github.com/user-attachments/assets/0c7a15cf-f2a2-4b1f-a9a4-e3c4ea18eab1" />
+<img width="871" height="358" alt="image" src="https://github.com/user-attachments/assets/144d4185-8ff6-497b-8259-b8fc1710d3bb" />
+
 
 ## HSV Image
-<img width="620" height="353" alt="image" src="https://github.com/user-attachments/assets/d046e489-32f4-480f-a672-26cd14a34033" />
+<img width="882" height="351" alt="image" src="https://github.com/user-attachments/assets/d4ff43a3-a2b6-4066-be51-bb968e950f1c" />
+
 
 ## Grayscale Image
-<img width="593" height="362" alt="image" src="https://github.com/user-attachments/assets/32491383-3787-47b9-8946-58a1b3b540f1" />
+<img width="920" height="356" alt="image" src="https://github.com/user-attachments/assets/8314b357-c4df-446f-aea4-040fdf40d587" />
+
 
 ## HSV to RGB Image
-<img width="598" height="397" alt="image" src="https://github.com/user-attachments/assets/00a335ab-5e57-45b9-9fb2-34132377fa3c" />
+<img width="906" height="353" alt="image" src="https://github.com/user-attachments/assets/76713914-6f49-40db-9944-3146d122df0d" />
+
 
 ## Image with 300x300 White Block
-<img width="572" height="352" alt="image" src="https://github.com/user-attachments/assets/69f0f494-c944-4a7d-82b9-71865ad7c35b" />
+<img width="825" height="367" alt="image" src="https://github.com/user-attachments/assets/e332c712-5c9d-4608-a5da-3abbb5b036e4" />
+
 
 ## Resized Image (Half Size)
-<img width="630" height="462" alt="image" src="https://github.com/user-attachments/assets/8ccbad8c-264f-4cdb-a4ad-788b2d3dfd32" />
+<img width="850" height="461" alt="image" src="https://github.com/user-attachments/assets/473bc968-f047-47e3-a9b9-ff73c5e8df4a" />
+
 
 ## Cropped Region of Interest (ROI)
-<img width="443" height="461" alt="image" src="https://github.com/user-attachments/assets/ec626a0b-9d89-487f-8833-aabf1394f45d" />
+
+<img width="687" height="472" alt="image" src="https://github.com/user-attachments/assets/ae383e0d-29c6-4f3b-90ec-40088a7af84a" />
+
+
+
 
 ## Flipped Horizontally
-<img width="576" height="357" alt="image" src="https://github.com/user-attachments/assets/50fbc331-5e80-4d8b-a42f-8f25e2d6b78e" />
+
+![Uploading image.png…]()
+
 
 ## Flipped Vertically
-<img width="582" height="345" alt="image" src="https://github.com/user-attachments/assets/28f13c57-27d4-47fc-83a9-76e867bd6a95" />
+
+![Uploading image.png…]()
+
 
 
 ## Result:
