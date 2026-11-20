@@ -136,65 +136,72 @@ image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 ## Output:
 
 ## original image
-<img width="562" height="353" alt="image" src="https://github.com/user-attachments/assets/ebdb834b-82f9-459c-9235-b8d510e2daad" />
+<img width="781" height="363" alt="image" src="https://github.com/user-attachments/assets/2a041582-cff4-4ac7-97d2-b2cc56cb7e37" />
+
 
 ## Image with Line
-<img width="770" height="385" alt="image" src="https://github.com/user-attachments/assets/07e64248-9b3d-450d-abd6-38f65b43b7d1" />
+<img width="572" height="362" alt="image" src="https://github.com/user-attachments/assets/a234e843-1f8d-48a7-9a7c-7d07f05fc374" />
+
 
 
 
 ## Image with Circle
-<img width="858" height="371" alt="image" src="https://github.com/user-attachments/assets/c2da871a-c71c-4d4b-b0f6-cc9f200a0360" />
+<img width="577" height="358" alt="image" src="https://github.com/user-attachments/assets/013fc02d-b5ce-47f2-9256-73a356dd8d7b" />
+
 
 
 ## Image with Rectangle
-<img width="987" height="367" alt="image" src="https://github.com/user-attachments/assets/c2ea663f-5218-4669-aa1f-22082b67149e" />
+<img width="592" height="372" alt="image" src="https://github.com/user-attachments/assets/ee0c70ee-8bb9-4b36-ada2-caa24bec1239" />
 
 
 ## Image with Text
-<img width="895" height="357" alt="image" src="https://github.com/user-attachments/assets/93caba16-9143-44f4-b945-19b460e14f8b" />
+<img width="580" height="365" alt="image" src="https://github.com/user-attachments/assets/f45d024d-9f7e-48db-b994-6f70228d84d6" />
+
 
 
 
 ## Original RGB Image
-<img width="871" height="358" alt="image" src="https://github.com/user-attachments/assets/144d4185-8ff6-497b-8259-b8fc1710d3bb" />
+<img width="573" height="356" alt="image" src="https://github.com/user-attachments/assets/f67cea02-28f0-4495-94f1-5eabef77eb0a" />
+
 
 
 ## HSV Image
-<img width="882" height="351" alt="image" src="https://github.com/user-attachments/assets/d4ff43a3-a2b6-4066-be51-bb968e950f1c" />
+<img width="622" height="356" alt="image" src="https://github.com/user-attachments/assets/dd589603-2586-4964-84e2-52961040a2cc" />
+
 
 
 ## Grayscale Image
-<img width="920" height="356" alt="image" src="https://github.com/user-attachments/assets/8314b357-c4df-446f-aea4-040fdf40d587" />
-
+<img width="577" height="360" alt="image" src="https://github.com/user-attachments/assets/abed604d-f869-4a01-b638-3554d3ad06ec" />
 
 ## HSV to RGB Image
-<img width="906" height="353" alt="image" src="https://github.com/user-attachments/assets/76713914-6f49-40db-9944-3146d122df0d" />
+<img width="590" height="357" alt="image" src="https://github.com/user-attachments/assets/a2021422-af75-4cad-b183-20d4aec82f3c" />
+
+
+
 
 
 ## Image with 300x300 White Block
-<img width="825" height="367" alt="image" src="https://github.com/user-attachments/assets/e332c712-5c9d-4608-a5da-3abbb5b036e4" />
+<img width="572" height="362" alt="image" src="https://github.com/user-attachments/assets/793cbbff-dcba-4c6c-82e7-225eabf46136" />
+
 
 
 ## Resized Image (Half Size)
-<img width="850" height="461" alt="image" src="https://github.com/user-attachments/assets/473bc968-f047-47e3-a9b9-ff73c5e8df4a" />
+<img width="547" height="461" alt="image" src="https://github.com/user-attachments/assets/28270999-d709-452f-b3bd-f024061554e8" />
 
 
 ## Cropped Region of Interest (ROI)
+<img width="446" height="467" alt="image" src="https://github.com/user-attachments/assets/e3ecd47f-991e-49f4-b42e-8569cd783ec7" />
 
-<img width="687" height="472" alt="image" src="https://github.com/user-attachments/assets/ae383e0d-29c6-4f3b-90ec-40088a7af84a" />
 
 
 
 ## Flipped Horizontally
+<img width="562" height="352" alt="image" src="https://github.com/user-attachments/assets/01d6a679-cc11-4bf0-aff2-cc2d19a718f9" />
 
-
-
-<img width="876" height="376" alt="image" src="https://github.com/user-attachments/assets/88a33a76-c544-4870-b0f4-cd7d42a896f3" />
 
 ## Flipped Vertically
+<img width="560" height="366" alt="image" src="https://github.com/user-attachments/assets/602b2775-5541-4cda-b99e-ea21390e9cb5" />
 
-<img width="856" height="355" alt="image" src="https://github.com/user-attachments/assets/2d66de9f-10c2-48ed-8167-7b263b292ecf" />
 
 
 
