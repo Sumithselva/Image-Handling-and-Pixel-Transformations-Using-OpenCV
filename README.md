@@ -173,6 +173,10 @@ image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 ## Grayscale Image
 <img width="577" height="360" alt="image" src="https://github.com/user-attachments/assets/abed604d-f869-4a01-b638-3554d3ad06ec" />
 
+## YCrCb Image
+<img width="582" height="352" alt="image" src="https://github.com/user-attachments/assets/7fd05b64-57c8-4ea8-b723-1f6ccaf587ab" />
+
+
 ## HSV to RGB Image
 <img width="590" height="357" alt="image" src="https://github.com/user-attachments/assets/a2021422-af75-4cad-b183-20d4aec82f3c" />
 
